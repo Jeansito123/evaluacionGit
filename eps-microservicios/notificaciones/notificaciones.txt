@@ -1,0 +1,1 @@
+Microservicio encargado de gestionar el envío de notificaciones a los usuarios.

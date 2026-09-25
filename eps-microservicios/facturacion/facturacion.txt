@@ -1,0 +1,1 @@
+Microservicio encargado de gestionar procesos relacionados con facturación y cobros.
